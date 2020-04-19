@@ -1,0 +1,17 @@
+[
+  {
+    "remote": "lineage",
+    "repository": "LineageOS/android_kernel_sony_sdm660",
+    "target_path": "kernel/sony/sdm660"
+  },
+  {
+    "remote": "lineage",
+    "repository": "LineageOS/android_hardware_sony_macaddrsetup",
+    "target_path": "hardware/sony/macaddrsetup"
+  },
+  {
+    "remote": "lineage",
+    "repository": "LineageOS/android_hardware_sony_simdetect",
+    "target_path": "hardware/sony/simdetect"
+  }
+]
